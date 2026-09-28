@@ -1,4 +1,4 @@
-# Complex Analogy Dataset Builder
+# Complex Analogy Dataset Builder (RAG based)
 
 This repository is a reproducible implementation of the dataset-creation method described in **“From Prototypical to Relational: How LLMs Navigate Complex Analogies.”** It starts from a table of base relations and concept pairs, retrieves Wikipedia evidence, mines additional relations, supports manual relation filtering, ranks relations with a GPT-assisted Max-Diff design, and creates four-option analogy questions with three semantic ground truths.
 
